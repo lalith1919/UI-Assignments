@@ -1,0 +1,21 @@
+
+body {
+    background-color: rgb(187, 137, 235);
+}
+
+
+
+}
+.wishes{
+text-align: center;
+}
+.location{
+
+    text-align: end;
+}
+.img{
+
+    width: fit-content; 
+    border: 8px solid brown;
+    border-radius: 100px;
+ 
