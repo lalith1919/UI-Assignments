@@ -1,0 +1,20 @@
+body{
+
+    background-color: bisque;
+}
+.schedule{
+
+    color: blue;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: azure;
+}
+.weekend{
+
+    color: black;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    background-color: azure;
+}
