@@ -1,21 +1,51 @@
 
 body {
-    background-color: rgb(187, 137, 235);
-}
+    background-color: rgb(165, 153, 104);
+    background-image:url("b.jpg.jpg");
+    background-size: contain;
+    
 
-
-
-}
-.wishes{
-text-align: center;
-}
-.location{
-
-    text-align: end;
+    
 }
 .img{
 
     width: fit-content; 
     border: 8px solid brown;
     border-radius: 100px;
+}
+ .nav{
+
+    text-align: center;
+    background-color: rgb(29, 90, 120);
+    list-style-type: none;
+    padding: 20px;
+    color: rgb(239, 232, 232);
+    
+ }
+ .nav li {
+
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+ .rav{
+
+    text-align: center;
+    background-color: rgba(242, 136, 136, 0.749);
+    list-style-type: none;
+    padding: 20px;
+ }
+ .rav li {
+
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+
+ }
  
+ .color{
+
+    color: rgb(193, 182, 182);
+    padding: 10px;
+    background-color: rgb(23, 14, 47);
+ }
