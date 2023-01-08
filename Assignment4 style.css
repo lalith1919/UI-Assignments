@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(250, 179, 179);
+}
+.ttl{
+    text-align: center;
+    color: rgb(45, 21, 36);
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tr{
+    width: 1500px;
+    
+}
+.lkk{
+font-size: x-large;
+text-align: center;
+}
+.inf{
+   border-bottom: 2px solid rgb(32, 6, 129); 
+}
+.uuu{
+    color: rgb(8, 46, 78);
+    text-shadow:1px 1px rgb(18, 2, 2) ;
+    font-size: large;
+}
