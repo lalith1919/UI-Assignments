@@ -1,6 +1,13 @@
 .navb{
-    background-color: rgb(2, 15, 11);
+    background-color: rgb(26, 25, 24);
+   
 }
 .ttl{
     color: aliceblue;
 }
+nav ul li{
+
+    padding : 0px 100px 10px 10px;
+    font-size: 20px ;
+    
+    }
